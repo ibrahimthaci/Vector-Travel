@@ -1,0 +1,75 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+#carouselImage{
+    object-fit: cover;
+    max-height: 95vh;
+    object-position: bottom;
+
+}
+.card, #boxShadow {
+    box-shadow: -1px 2px 33px -8px rgba(0, 0, 0, 0.75);
+}
+#carouselText{
+    font-family: 'Libre Baskerville', serif;
+    text-shadow: 0px 0px 20px rgba(0, 0, 0, 1);
+    position: absolute;
+    bottom: 50%;
+
+}
+.col-md-6  {
+	
+	padding:5px;
+	text-align:center;
+	margin-bottom:15px;
+
+}
+table td {
+    padding: 5px 10px;
+    text-align:center;
+    font-size:16px;
+    font-family: Lato,sans-serif;
+    line-height: 26px;
+    font-weight: 300;
+}
+strong{
+	
+	padding:50px;
+	font-size:16px;
+    font-family: Lato,sans-serif
+	line-height: 26px;
+    font-weight: 300;
+}
+
+
+.h4tb{
+	font-family: "Playfair Display SC",serif
+	margin-bottom:170px;
+	padding:20px;
+}
+tr td {
+	padding-left:50px;
+	border:1px solid rgba(200, 207, 202); 
+	
+	}
+
+.Lista1{
+	/*border :1px solid red;*/
+}
+th{
+	padding:10px;
+	font-size:18px;
+    font-family: Lato,sans-serif
+	line-height: 26px;
+    font-weight: 300;
+}
+
+.card-img-top{
+	padding:2PX;
+	height:50%;
+}
+
+.content{
+	padding:10px;
+}
